@@ -4,7 +4,7 @@
     <form class="form" action="">
       <el-input class="num" placeholder="请输入您的账号" clearable></el-input>
       <el-input class="pass" placeholder="请输入您的密码" clearable></el-input>
-      <router-link to="./HelloWorld">
+      <router-link to="./index">
         <el-button class="btn" type="primary">登录</el-button>
       </router-link>
     </form>
